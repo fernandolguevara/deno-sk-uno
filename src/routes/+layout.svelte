@@ -1,4 +1,7 @@
 <script lang="ts">
-   import 'npm:uno.css';
-   import 'npm:@unocss/reset/tailwind.css'
+   import 'uno.css';
+   import '@unocss/reset/tailwind.css'
 </script>
+
+
+<slot />
